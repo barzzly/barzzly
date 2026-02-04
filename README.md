@@ -33,19 +33,6 @@ Tools and languages I use in my daily learning journey:
 
 ---
 
-## 📊 GitHub Activity
-![BarzzLy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarzzLy&show_icons=true&theme=transparent)
-
----
-
-## 🚀 A Project I'm Proud Of
-### One Defender — Android Game
-A small game project that helped me understand game logic, movement, and enemy behavior.
-
-![One Defender](./one-defender.png)
-
----
-
 ## 💬 Final Note
 I believe progress matters more than perfection.  
 Every commit is part of the journey.
