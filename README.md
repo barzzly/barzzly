@@ -1,7 +1,7 @@
 # Hey! I'm BarzzLy 👋
 
-I’m an Informatics Engineering student who enjoys turning ideas into real, working software.  
-Still learning, still building, and definitely still debugging.
+I’m an Information Technology student at Politeknik Negeri Padang who enjoys turning ideas into real, working software.
+Still learning, still building, constantly debugging and always excited to grow through real projects, experiments, and collaboration
 
 ---
 
@@ -20,8 +20,9 @@ Tools and languages I use in my daily learning journey:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
 
