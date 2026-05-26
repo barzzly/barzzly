@@ -8,7 +8,7 @@ Still learning, still building, constantly debugging and always excited to grow 
 ## 👨‍🎓 Who Am I
 - 🎓 Informatics Engineering student  
 - 🧩 Enjoys backend logic and problem solving  
-- 🌱 Currently exploring **Laravel**, **Next.js**, and **Flutter**  
+- 🌱 Currently exploring **Laravel**, **Next.js** 
 - 🛠️ Learning by building, failing, and improving  
 
 ---
@@ -35,16 +35,8 @@ Tools and languages I use in my daily learning journey:
 ---
 
 ## 📊 GitHub Stats
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BarzzLy&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BarzzLy&layout=compact&theme=radical)
-
 ![Streak](https://streak-stats.demolab.com?user=BarzzLy&theme=radical)
 
----
-
-## 💬 Final Note
-I believe progress matters more than perfection.  
-Every commit is part of the journey.
 
