@@ -34,8 +34,13 @@ Tools and languages I use in my daily learning journey:
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=BarzzLy)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BarzzLy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarzzLy&layout=compact&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=BarzzLy&theme=radical)
 
 ---
 
