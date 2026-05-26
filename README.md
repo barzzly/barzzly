@@ -35,7 +35,7 @@ Tools and languages I use in my daily learning journey:
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=BarzzLy&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BarzzLy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
