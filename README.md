@@ -36,9 +36,9 @@ Tools and languages I use in my daily learning journey:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BarzzLy&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BarzzLy&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarzzLy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BarzzLy&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=BarzzLy&theme=radical)
 
