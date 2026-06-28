@@ -1,19 +1,19 @@
-# Hey! I'm BarzzLy 👋
+# Hey! I'm BarzzLy 
 
 I’m an Information Technology student at Politeknik Negeri Padang who enjoys turning ideas into real, working software.
 Still learning, still building, constantly debugging and always excited to grow through real projects, experiments, and collaboration
 
 ---
 
-## 👨‍🎓 Who Am I
-- 🎓 Informatics Engineering student  
-- 🧩 Enjoys backend logic and problem solving  
-- 🌱 Currently exploring **Laravel**, **Next.js** 
-- 🛠️ Learning by building, failing, and improving  
+##  Who Am I
+-  Informatics Engineering student  
+-  Enjoys backend logic and problem solving  
+-  Currently exploring **Laravel**, **Next.js** 
+-  Learning by building, failing, and improving  
 
 ---
 
-## 🧰 Tech I Work With
+##  Tech I Work With
 Tools and languages I use in my daily learning journey:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ Tools and languages I use in my daily learning journey:
 
 ---
 
-## 🎯 What I'm Focusing On
+##  What I'm Focusing On
 - Writing cleaner and more readable code  
 - Understanding how backend systems work  
 - Improving database structure and logic  
@@ -34,9 +34,7 @@ Tools and languages I use in my daily learning journey:
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BarzzLy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BarzzLy&layout=compact&theme=radical)
+##  GitHub Stats
 ![Streak](https://streak-stats.demolab.com?user=BarzzLy&theme=radical)
 
 
