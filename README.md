@@ -1,17 +1,16 @@
-# Hey! I'm BarzzLy 
+<div align="center">
 
-I’m an Information Technology student at Politeknik Negeri Padang who enjoys turning ideas into real, working software.
-Still learning, still building, constantly debugging and always excited to grow through real projects, experiments, and collaboration
+# Hello, Im BarzzLy
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=reiiap&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/reiiap?label=Followers&style=flat&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/reiiap?affiliations=OWNER&style=flat&color=yellow"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Code+Today%2C+Lead+Tomorrow;Learning+Never+Ends;Building+The+Future+One+Step+At+A+Time;Turning+Ideas+Into+Reality;Growth+Begins+Outside+Your+Comfort+Zone"/>
 </p>
+<p>
+<img src="https://img.shields.io/github/stars/BarzzLy?affiliations=OWNER&style=flat&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=BarzzLy&label=Profile%20Views&color=red&style=flat"/>
+<img src="https://img.shields.io/github/followers/BarzzLy?label=Followers&style=flat&color=red"/>
+</p>
+</div>
 
 ---
 
