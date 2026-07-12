@@ -3,6 +3,16 @@
 I’m an Information Technology student at Politeknik Negeri Padang who enjoys turning ideas into real, working software.
 Still learning, still building, constantly debugging and always excited to grow through real projects, experiments, and collaboration
 
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=reiiap&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/reiiap?label=Followers&style=flat&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/reiiap?affiliations=OWNER&style=flat&color=yellow"/>
+
+</p>
+
 ---
 
 ##  Who Am I
