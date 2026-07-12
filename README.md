@@ -5,11 +5,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Code+Today%2C+Lead+Tomorrow;Learning+Never+Ends;Building+The+Future+One+Step+At+A+Time;Turning+Ideas+Into+Reality;Growth+Begins+Outside+Your+Comfort+Zone"/>
 </p>
-<p>
-<img src="https://img.shields.io/github/stars/BarzzLy?affiliations=OWNER&style=flat&color=red"/>
-<img src="https://komarev.com/ghpvc/?username=BarzzLy&label=Profile%20Views&color=red&style=flat"/>
-<img src="https://img.shields.io/github/followers/BarzzLy?label=Followers&style=flat&color=red"/>
-</p>
 </div>
 
 ---
