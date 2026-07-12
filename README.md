@@ -3,7 +3,7 @@
 # Hello, Im BarzzLy
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Code+Today%2C+Lead+Tomorrow;Learning+Never+Ends;Building+The+Future+One+Step+At+A+Time;Turning+Ideas+Into+Reality;Growth+Begins+Outside+Your+Comfort+Zone"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=red&center=true&vCenter=true&width=1000&lines=Code+Today%2C+Lead+Tomorrow;Learning+Never+Ends;Building+The+Future+One+Step+At+A+Time;Turning+Ideas+Into+Reality;Growth+Begins+Outside+Your+Comfort+Zone"/>
 </p>
 </div>
 
